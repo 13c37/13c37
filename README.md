@@ -2,7 +2,6 @@
 
 IT support & system administration · Cologne, Germany
 
-I like setups that are clean, documented and actually work – Windows clients, networks and Linux servers.
 
 **Currently**
 
