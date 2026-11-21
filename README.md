@@ -1,13 +1,12 @@
 ## 13c37
 
-IT support & system administration · Cologne, Germany
+it support & system administration · cologne, germany
 
+**currently**
 
-**Currently**
+- running a [proxmox homelab](https://github.com/13c37/homelab)
+- maintaining [twOpenOriginalImage](https://github.com/13c37/twOpenOriginalImage)
 
-- Running a Proxmox homelab: Docker, AdGuard Home, Jellyfin, Uptime Kuma, Tailscale → [homelab](https://github.com/13c37/homelab)
-- Maintaining [twOpenOriginalImage](https://github.com/13c37/twOpenOriginalImage), a userscript for original-size X/Twitter images
+**stack**
 
-**Stack**
-
-Windows · Active Directory · Microsoft 365 · Linux (Debian) · Proxmox VE · Docker Compose · Networking & DNS · PowerShell · Git
+windows · active directory · microsoft 365 · linux (debian) · proxmox ve · docker compose · networking & dns · powershell · git
