@@ -1,6 +1,6 @@
 ## 13c37
 
-it support & system administration · cologne, germany
+it support & system administration
 
 **currently**
 
